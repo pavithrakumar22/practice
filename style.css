@@ -1,0 +1,95 @@
+*{
+    box-sizing: border-box;
+    color: white;
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    background-color:#bc1e4a;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+body{
+    background-color: #191b1d;
+}
+#p1{
+    font-size: small;
+    font-weight: 100;
+    padding-bottom: 2px;
+    opacity: 80%;
+}
+#p2{
+    font-weight: 800;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+#box1,#box2,#box3{
+    background-color: #22262c;
+    margin-top: 30%;
+    padding:10px;
+    width: 250px;
+    height:500px;
+    line-height: 2.0;
+    border-radius: 5px;
+}
+#box1{
+    position: relative;
+    margin: 40px;
+    height: 450px;
+    width:250px;
+    list-style-position:inside; 
+    text-align: center;
+    padding-top: 0%;
+    padding-bottom: 10%;
+    
+    
+}
+#box2{
+    position: relative;
+    margin: 40px;
+    height: 450px;
+    width:250px;
+    list-style-position:inside;
+    text-align:center;
+    padding-top: 0%;
+    padding-bottom: 10%;
+   
+}
+#box3{
+    position: relative;
+    margin: 40px;
+    height: 450px;
+    width:250px;
+    list-style-position:inside;
+    text-align: center;
+    padding-top: 0%;
+    padding-bottom: 10% ;
+    
+}
+h1{
+    text-align: center;
+    margin:15px;
+    font-size: 30px;
+}
+button{
+    background-color: #bc1e4a;
+    width: 120px;
+    height: 40px;
+    padding:5px 5px;
+    border-radius: 5px;
+}
+h2{
+    font-size: 40px;
+    padding-top: 2px;
+}
+h3{
+    font-size: 20px;
+    padding-top: 2px;
+}
+
+
